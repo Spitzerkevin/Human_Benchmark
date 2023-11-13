@@ -18,3 +18,5 @@ If you want to use the bot Be sure to install (using pip example: pip install py
 You will Also Need To Download tesseract and provide the exe. PATH
 Link: https://sourceforge.net/projects/tesseract-ocr.mirror/
 
+The Pictures have to be in the same folder with the Verbal_Memory.py
+
