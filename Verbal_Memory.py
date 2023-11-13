@@ -21,7 +21,7 @@ try:
 except ImageNotFoundException:
     pass
 
-#Funktion to locate and Click on the Seen Button
+#Function to locate and Click on the Seen Button
 def clickSeen():
     try:
 
@@ -33,7 +33,7 @@ def clickSeen():
     except ImageNotFoundException:
         pass
 
-#Funktion to locate and Click on the New Button
+#Function to locate and Click on the New Button
 def clickNew():
     try:
 
